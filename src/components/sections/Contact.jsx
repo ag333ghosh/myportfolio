@@ -52,7 +52,7 @@ export const Contact = () => {
                                     setFormData({ ...fromData, name: e.target.value })
                                 }}
                                 required
-                                placeholder="Name"
+                                placeholder="Your name . . ."
                                 className="w-full my-2 bg-white/5 border border-white/10 rounded px-4 py-3 text-white transition focus:outline-none focus:border-blue-500 focus:bg-blue-500/5"
                             />
                             <input

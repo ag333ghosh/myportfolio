@@ -13,9 +13,8 @@ export const Home = () => {
                     Hi, I'm Arpan Ghosh
                 </h1>
                 <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                    I’m a React developer who loves building user-friendly web apps.
-                    I’m also learning Node.js to grow as a full-stack developer. I enjoy
-                    learning new things and working with teams to build great products.
+                    React.js developer with experience in building user-friendly web
+                    applications, currently pursuing training in Node.js.
                 </p>
                 <div className="flex justify-center space-x-4">
 
